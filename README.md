@@ -1,2 +1,2 @@
-# ddi_generation
-Drug Drug Interactions paper Drug and Event Mappings
+# LIDDI - A Linked Datasets for Drug-Drug Interactions
+More info soon!
