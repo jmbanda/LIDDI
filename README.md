@@ -1,2 +1,2 @@
-# LIDDI - A Linked Datasets for Drug-Drug Interactions
+# LIDDI - A Linked Dataset for Drug-Drug Interactions
 More info soon!
